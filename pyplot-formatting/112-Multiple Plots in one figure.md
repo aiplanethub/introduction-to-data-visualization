@@ -1,6 +1,4 @@
-# Multiple Plots
-
-### Multiple Plots in 1 Figure
+## Multiple Plots in 1 Figure
 
 * We can make multiple graphics in one figure. This goes very well for comparing charts or for sharing data from several types of charts easily with a single image.
 
@@ -19,7 +17,7 @@
 
 
 
-### Changing Plot Size
+## Changing Plot Size
 
 If we call the subplot function without any parameters - like we do in the following example - a Figure object and one Axes object will be returned:
 
