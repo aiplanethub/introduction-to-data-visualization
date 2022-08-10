@@ -1,13 +1,11 @@
-# What, Why and How of Data Visualisation
-
-### Learning Objectives
+## Learning Objectives
 
 * What is Data Visualisation?
 * Why Data Visualisation?
 * Real-life examples
 * Data Visualisation in Python
 
-### What is Data Visualisation?
+## What is Data Visualisation?
 
 Data Visualization is the representation of data or information in a graph, chart, or other visual format.
 
@@ -22,7 +20,7 @@ It communicates relationships of the data with images.
 
 
 
-### **Why Data Visualisation?**
+## Why Data Visualisation?
 
 A visual summary of information makes it easier to identify patterns, trends and outliers than looking through thousands of rows on a spreadsheet. 
 
@@ -38,7 +36,9 @@ Data visualization is another form of visual art that grabs our interest and kee
 
 **You’ve been surrounded by Data Visualisations all this while!**
 
-### **Google Map Traffic visualization**
+## Real-Life Data Visualization
+
+### Google Map Traffic visualization
 
 The live traffic status in Google map is another simple example of what is possible through data visualization to make our life simple and easy. You can see the red colour indicating slow traffic area in the city on the map and blue colour indicating fast etc.
 
@@ -99,7 +99,7 @@ Can you think of more such examples?
 
 
 
-### Data Visualisation in Python
+## Data Visualisation in Python
 
 Python offers multiple great graphing libraries that come packed with lots of different functionalities. No matter if you want to create interactive, live, or highly customized plots, python has an excellent library for you.
 
