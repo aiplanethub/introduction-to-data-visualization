@@ -1,7 +1,5 @@
-# Basic Plots
-
-* The terms Plot, Chart and Graph partly overlap, they are used somewhat loosely, and in that overlap there isn't really any significant difference that you need to know right now.
-* Therefore, there’s no need to be confused if you find Bar Plot, Bar Graph and Bar Chart being used interchangeably at places.
+* The terms Plot, Chart, and Graph partly overlap, they are used somewhat loosely, and in that overlap, there isn't really any significant difference that you need to know right now.
+* Therefore, there’s no need to be confused if you find Bar Plot, Bar Graph, and Bar Chart being used interchangeably at places.
 * Let’s have a look at the commonly used plots in Matplotlib now.
 
 
@@ -10,7 +8,7 @@
 
 
 
-# Scatter Plot
+## Scatter Plot
 
 ### What is Scatter Plot?
 
@@ -35,7 +33,7 @@
 
 
 
-### **Creating a Scatter Plot**
+### Creating a Scatter Plot
 
 To create a scatter plot in Matplotlib we can use the .scatter() method:
 
@@ -52,7 +50,7 @@ To create a scatter plot in Matplotlib we can use the .scatter() method:
 
 
 
-### **Is plt.show( ) always required?**
+### Is plt.show( ) always required?
 
 You might’ve observed the line plt.show( ) after the plt.scatter( ). Is it necessary to use?
 
@@ -74,7 +72,7 @@ In the following cell we are executing the same script as above, removing the pl
 
 If you want to prevent this from being included as a cell output, use plt.show() at the end of each plotting instruction.
 
-### **Applications of Scatter Plot**
+### Applications of Scatter Plot
 
 * A scatter plot can be useful for identifying other patterns in data.
 * We can divide data points into groups based on how closely sets of points cluster together.
@@ -84,7 +82,7 @@ If you want to prevent this from being included as a cell output, use plt.show()
 
 
 
-# Line Plot
+## Line Plot
 
 ### What is Line Plot?
 
@@ -112,7 +110,7 @@ A line chart is used to represent data over a continuous time span. It is genera
 
 Because it is a line chart, matplotlib automatically draws a line to connect each pair of consecutive points that represent coordinates on the graph.
 
-### **Creating a Line Plot (with a single argument)**
+### Creating a Line Plot (with a single argument)
 
 * We can make a graph with a simple line of code as mentioned in the image:
 
