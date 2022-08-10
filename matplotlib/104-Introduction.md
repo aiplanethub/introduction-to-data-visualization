@@ -1,8 +1,4 @@
-# Introduction
-
-
-
-### Learning Objectives
+## Learning Objectives
 
 * Introduction to Matplotlib
 * Advantages
@@ -10,14 +6,14 @@
 * Importing Matplotlib
 * Matplotlib Chart
 
-### Introduction 
+## Introduction 
 
 * Matplotlib is the most popular Python plotting library. 
 * It is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 * It is useful for those working with Python and NumPy.
 * It is a low-level library with a MATLAB-like interface which offers lots of freedom at the cost of having to write more code.
 
-### Advantages
+## Advantages
 
 * Extremely powerful
 * Fast and efficient
@@ -31,7 +27,7 @@
 
 
 
-### Installation
+## Installation
 
 * Before Matplotlib's plotting functions can be used, Matplotlib needs to be installed. 
 * The Anaconda distribution of Python as well as Google Colab come with Matplotlib pre-installed and no further installation steps are necessary.
@@ -42,13 +38,13 @@
 
 
 
-### **Pyplot**
+### Pyplot
 
 The most used module of Matplotlib is Pyplot which is Matplotlib's plotting framework. 
 
 Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
 
-### Importing matplotlib 
+## Importing matplotlib 
 
 There are a lot of modules in Matplotlib but for plotting purposes, we only import pyplot.
 
@@ -58,7 +54,7 @@ Just as we use the np shorthand for NumPy and the pd shorthand for Pandas, we wi
 
 
 
-### Matplotlib Chart
+## Matplotlib Chart
 
 Matplotlib’s charts are made up of two main components:
 
