@@ -1,12 +1,10 @@
-# Setting Things Up
-
-### Learning Objectives
+## Learning Objectives
 
 * Importing Libraries
 * About the Dataset
 * Loading the dataset
 
-### Importing libraries
+## Importing libraries
 
 All Python capabilities are not loaded to our working environment by default (even if they are already installed in your system). So, we import each and every library that we want to use.
 
@@ -24,13 +22,13 @@ We’ll import numpy, pandas and matplotlib with their respective aliases: **np,
 
 
 
-### About the Dataset
+## About the Dataset
 
 **Dataset Name:** Standard Metropolitan Dataset
 
 **Dataset Description:**
 
-* It contains data of 99 standard metropolitan areas in the US i.e. 99 row entries.
+* It contains data of 99 standard metropolitan areas in the US, i.e., 99 row entries.
 * The dataset provides information on 11 variables for each area for the period 1976-1977.
 * The areas have been divided into 4 geographic regions: 1=North-East, 2=North-Central, 3=South, 4=West.
 * The variables provided are listed in the table below:
