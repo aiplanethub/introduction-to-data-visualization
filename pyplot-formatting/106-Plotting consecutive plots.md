@@ -1,6 +1,4 @@
-# Plotting Consecutive Plots
-
-### Learning Objectives
+## Learning Objectives
 
 * Why Pyplot formatting?
 * Plotting consecutive graphs
@@ -8,13 +6,13 @@
 
 
 
-### Pyplot Formatting
+## Pyplot Formatting
 
-Tired of those plain, boring graphs? Want them to convey more information at once? This is the perfect module for you then!
+Tired of those plain, boring graphs? Want them to convey more information at once? This is the perfect module for you, then!
 
-We’ll be working on the same dataset i.e. on the [Standard Metropolitan Data](https://raw.githubusercontent.com/dphi-official/Datasets/master/Standard_Metropolitan_Areas_Data-data.csv).
+We’ll work on the same dataset, i.e., the [Standard Metropolitan Data](https://raw.githubusercontent.com/dphi-official/Datasets/master/Standard_Metropolitan_Areas_Data-data.csv).
 
-### Plotting consecutive plots using Matplotlib
+## Plotting consecutive plots using Matplotlib
 
 Plotting data on multiple consecutive figures can be done by calling the corresponding graphing functions and displaying each figure consecutively:
 
@@ -34,7 +32,7 @@ Plotting data on multiple consecutive figures can be done by calling the corresp
 
 
 
-### Combining the 2 plots into 1
+## Combining the 2 plots into 1
 
 What happens if you don't use plt.show() after the first figure? Both variables will be plotted in the same figure:
 
