@@ -1,5 +1,3 @@
-# Making The Plots Descriptive
-
 ## Learning Objectives
 
 * Why should we make plots descriptive?
@@ -16,7 +14,7 @@ The plots that we created in the previous module do the job but do you think any
 
 It's a good practice to make all the plots descriptive and easy to understand using Title, Labels and Legends.
 
-### 1. Adding a Title
+## 1. Adding a Title
 
 Your graph isn't complete without a title that summarizes what the graph itself depicts. The title is usually placed in the center, either above or below the graph. The proper form for a graph title is "y-axis variable vs. x-axis variable."
 
@@ -34,7 +32,7 @@ Adding title to a plot is very straightforward. It can be done with the title fu
 
 
 
-### 2. Adding Labels
+## 2. Adding Labels
 
 Axis labels are the variable names or descriptions that represent a particular axis. The axis label usually appears below or to the left of the axis.
 
@@ -55,7 +53,7 @@ Axis labels are the variable names or descriptions that represent a particular a
 
 
 
-### 3. Adding a legend
+## 3. Adding a legend
 
 Now that you've added what the graph, X and Y axis represent, you're already halfway through the process of making your graphs intuitive.
 
